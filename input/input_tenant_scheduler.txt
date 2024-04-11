@@ -1,0 +1,6 @@
+io_intense_task1 150 2 256
+cpu_intense_task1 300 4 0
+io_intense_task2 150 2 256
+io_intense_task3 150 2 256
+cpu_intense_task2 300 4 0
+io_intense_task4 150 2 256

@@ -1,0 +1,7 @@
+create cpu_task_overlayfs 300 100
+create io_task_overlayfs 150 128 5000
+invoke cpu_task_overlayfs 5000
+invoke cpu_task_overlayfs 5000
+invoke io_task_overlayfs 128 500000
+invoke io_task_overlayfs 128 500000
+exit

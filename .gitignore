@@ -1,0 +1,8 @@
+build/
+output*
+tmp/
+log*
+*log
+core*
+log/*
+.vscode/

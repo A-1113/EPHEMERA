@@ -1,0 +1,7 @@
+create my_image1 350 20 500
+create my_image2 150 128 500
+invoke my_image1 20 500000
+invoke my_image2 128 500000
+invoke my_image1 20 500000
+invoke my_image2 128 500000
+exit
